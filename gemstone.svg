@@ -1,0 +1,13 @@
+<svg width="90" height="67" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="69" width="92" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path fill="#00ff00" id="svg_1" d="m67.5,0l-45,0l-22.5,27.3l45,39l45,-39l-22.5,-27.3zm-56.6,28.3l16.7,0l7.4,19l-24.1,-19zm17.7,-4.3l-2.4,-17.2l13.8,11.9l-11.4,5.3zm35.2,-17.1l-2.4,17.2l-11.4,-5.4l13.8,-11.8zm-1.4,21.4l16.7,0l-24.1,19l7.4,-19z"/>
+  <text id="svg_2" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif" font-weight="bold" font-size="5px" fill="#000000" y="115" x="0">Created by Christopher T. Howlett</text>
+  <text id="svg_3" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif" font-weight="bold" font-size="5px" fill="#000000" y="120" x="0">from the Noun Project</text>
+ </g>
+</svg>
